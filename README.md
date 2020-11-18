@@ -3,7 +3,7 @@
 ## Description
 
 - Github is used as a repo management tool
-- Git Flow initialised in this project
+- Git and Git Flow initialised in this project
 - NestJS is used to create Node.js application
 
 ## Installation
